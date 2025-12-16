@@ -24,6 +24,9 @@ This project simulates how such data can be ingested from an external API, proce
 
 ![Spotify ETL Architecture Cloud](https://github.com/user-attachments/assets/d16f8c0e-7977-43a4-bef0-f77c82302133)
 
+![Spotify ETL Architecture Cloud-Glue](https://github.com/user-attachments/assets/446de2a8-b2fb-44ca-afd6-0a3d30397a25)
+
+
 ### High‑Level Flow
 
 ```
